@@ -1,0 +1,40 @@
+*.orig
+*.log
+.DS_Store
+.vagrant
+dist/
+logs/
+node/
+node_modules/
+target/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.tar.gz
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# netbeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+.nb-gradle/
+
+# intellij
+*.iml
+.idea/
+
+# eclipse
+.classpath
+.project
+.settings/
+
+service_info.yml
+.clover/
+
